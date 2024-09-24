@@ -1,3 +1,12 @@
+# PowerBI Design Dashboard
+# Blankit Dashboard 
+![Blinkit_Dashboard](https://github.com/user-attachments/assets/07d32615-c701-49e4-9dba-efeea452de00)
+
+
+# Papollo HealthCare Dashboard
+
+![HealthCare_Dashboard](https://github.com/user-attachments/assets/949f832b-0299-44e4-8626-647866f282ca)
+
 # What is it?
 The dashboard appears to belong to Blinkit, an Indian last-minute grocery delivery app, and provides insights into sales, items, ratings, and outlet performance across various categories.
 
@@ -59,11 +68,4 @@ This healthcare dashboard provides a patient admissions, bed occupancy, billing,
 
 
 
-# PowerBI Design Dashboard
-# Blankit Dashboard 
-![Blinkit_Dashboard](https://github.com/user-attachments/assets/07d32615-c701-49e4-9dba-efeea452de00)
 
-
-# Papollo HealthCare Dashboard
-
-![HealthCare_Dashboard](https://github.com/user-attachments/assets/949f832b-0299-44e4-8626-647866f282ca)
